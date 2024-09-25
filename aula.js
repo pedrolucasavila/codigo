@@ -24,7 +24,7 @@ console.log(`o resultado é: ${divisao}`)
 console.log(`o resultado é: ${multiplicacao}`)
 */
 
-const nota1 = 8;
+const nota1 = 7;
 const nota2 = 6;
 const nota3 = 10;
 const media = (nota1 + nota2 + nota3)/3
